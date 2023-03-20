@@ -1,1 +1,1 @@
-its my firts lang
+Variables is shit
