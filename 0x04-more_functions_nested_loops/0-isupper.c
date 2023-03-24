@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code.
+ * _isupper - check if c is upper
  *
  * @c: the input for the alphapet
  *
